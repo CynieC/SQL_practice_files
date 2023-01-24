@@ -18,13 +18,13 @@ Some of the keywords I used in the questions include:
 
 
 
-**admissions database**
+**Admissions database**
 ![image](https://user-images.githubusercontent.com/100769722/214225856-e08a1295-fef1-4589-b315-ca94bd3bf72e.png)
 
 
-
-**province_id database**
+**Province_id database**
 ![image](https://user-images.githubusercontent.com/100769722/214225960-0c1f7d1a-fa3d-49f6-b581-0bd0a16f7f5b.png)
+
 
 
 
