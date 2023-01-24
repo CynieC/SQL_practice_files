@@ -1,5 +1,5 @@
 # SQL - Practice questions(sql-practice.com)
-=========
+--------------------------------------------
 
 This repository comprises of different SQL questions from easy to hard level.
 
@@ -10,13 +10,15 @@ Some of the keywords I used in the questions include:
 
 
 ## Databases
-=========
+------------
 
-![patients]("C:\Users\user\Desktop\patients.png")
 
-![province]("C:\Users\user\Desktop\province.png")
+![image](https://user-images.githubusercontent.com/100769722/214225727-bde42a15-f44d-40e0-8ece-ac8174eae5ce.png)
 
-![admissions]("C:\Users\user\Desktop\admissions.png")
+![image](https://user-images.githubusercontent.com/100769722/214225856-e08a1295-fef1-4589-b315-ca94bd3bf72e.png)
+
+![image](https://user-images.githubusercontent.com/100769722/214225960-0c1f7d1a-fa3d-49f6-b581-0bd0a16f7f5b.png)
+
 
 
 
